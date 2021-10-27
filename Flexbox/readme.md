@@ -28,3 +28,10 @@
         - flex
         - order
         - align-self
+
+---
+
+## Sugestões de extensões
+
+- HTML Snippets
+- Live HTML Previewer

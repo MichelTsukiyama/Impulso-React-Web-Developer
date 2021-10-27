@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display-flex</title>
+    <style>
+        .flex {
+            max-width: 300px;
+            padding: 10px;
+            border: 2px solid black;
+            display: flex;
+
+        }
+
+        .item {
+            background-color: aqua;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex">
+        <!-- atalho "div.item*3" cria 3 divs com a class item -->
+        <div class="item">item 1</div> 
+        <div class="item">item 2</div>
+        <div class="item">item 3</div>
+    </div>
+    <!-- Caso sejam adicionados muitos itens estes podem "vazar" saindo da div -->
+    <!-- O tratamento para este vazamento será visto adiante -->
+</body>
+</html>
