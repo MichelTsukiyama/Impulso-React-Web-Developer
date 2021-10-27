@@ -15,7 +15,7 @@
 2. [Lógica de Programação Essencial]().
 3. [Estrutura de Dados e Algoritmos]().
 4. [Git e GitHub]().
-5. [Como Orgaanizar seus estudos]().
+5. [Como Organizar seus estudos]().
 6. [Introdução a criação de websites com HTML5 e CSS3]().
 7. [Posicionando elementos com Flexbox em CSS]().
 8. [Conceitos de resposividade e experiência do usuário]().
@@ -52,4 +52,4 @@
 
 ### links úteis
 
-[Guia Maarkdown](https://www.markdownguide.org/basic-syntax/#images-1).
+[Guia Markdown](https://www.markdownguide.org/basic-syntax/#images-1).
