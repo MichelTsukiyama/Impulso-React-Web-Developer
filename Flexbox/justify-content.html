@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jutify content</title>
+
+<!-- Sempre tente alterar para column para verificar oo que oocorre -->
+
+    <style>
+        .container{
+            max-width: 400px;
+            border: 1px solid black;
+            margin: 0;
+            display: flex;
+            margin-bottom: 10px;
+        }
+
+        .item{
+            background-color: orangered;
+            margin: 5px;
+            text-align: center;
+            color: white;
+
+        }
+
+        .flex-start{
+            justify-content: flex-start;
+        }
+
+        .flex-end{
+            justify-content: flex-end;
+        }
+
+        .flex-center{
+            justify-content: center;
+        }
+
+        .flex-space-between{
+            justify-content: space-between;
+        }
+        
+        .flex-space-around{
+            justify-content: space-around;
+        }
+
+        .flex-space-evenly{
+            justify-content: space-evenly;
+        }
+
+        .column {
+            flex-direction: column;
+            min-height: 200px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>flex-start</h1>
+    <section class = "container flex-start">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+    </section>
+
+    <h1>flex-end</h1>
+    <section class = "container flex-end">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+    </section>
+
+    <h1>center</h1>
+    <section class = "container flex-center">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <h1>space-between</h1>
+    <section class = "container flex-space-between">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <h1>space-around</h1>
+    <section class = "container flex-space-around">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <h1>space-evenly</h1>
+    <section class = "container flex-space-evenly">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <h1>column</h1>
+    <p>flex-start</p>
+    <section class = "container flex-start column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <p>flex-end</p>
+    <section class = "container flex-end column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <p>flex-center</p>
+    <section class = "container flex-center column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <p>flex-space-between</p>
+    <section class = "container flex-space-between column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <p>flex-space-around</p>
+    <section class = "container flex-space-around column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+
+    <p>flex-space-evenly</p>
+    <section class = "container flex-space-evenly column">
+        <div class="item">1</div>
+        <div class="item">item 2</div>
+        <div class="item">outro item</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+    </section>
+</body>
+</html>
