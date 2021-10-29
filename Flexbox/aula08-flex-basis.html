@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex-basis</title>
+
+    <style>
+        .flex-container{
+            max-width: 500px;
+            border: 2px solid black;
+            display: flex;
+        }
+
+        .item{
+            background-color: green;
+            color: white;
+            text-align: center;
+            margin: 5px;
+            margin-bottom: 10px;
+        }
+
+        .basis-auto{
+            flex-basis: auto;
+        }
+
+        .basis-0{
+            flex-basis: 0;
+        }
+
+        .width-100{
+            flex-basis: 100px;
+        }
+
+        .fg-0{
+            flex-grow: 0;
+        }
+
+        .fg-1{
+            flex-grow: 1;
+        }
+
+        .fg-3{
+            flex-grow: 3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Flex-basis auto</h1>
+    <div class="flex-container">
+        <div class="item basis-auto fg-1">A</div>
+        <div class="item basis-auto fg-1">BBB</div>
+        <div class="item basis-auto fg-1">C</div>
+        <div class="item basis-auto fg-3">DEF</div>
+    </div>
+    
+    <h1>Flex-basis 0</h1>
+    <div class="flex-container">
+        <div class="item basis-0 fg-1">A</div>
+        <div class="item basis-0 fg-1">BBB</div>
+        <div class="item basis-0 fg-1">C</div>
+        <div class="item basis-0 fg-3">DEF</div>
+    </div>
+
+    <h1>Flex-basis + width</h1>
+    <div class="flex-container">
+        <div class="item width-100 fg-0">A</div>
+        <div class="item width-100 fg-0">BBB</div>
+        <div class="item width-100 fg-3">C</div>
+        <div class="item width-100 fg-3">DEF</div>
+    </div>
+</body>
+</html>
