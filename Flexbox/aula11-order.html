@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order</title>
+    <style>
+        .flex-container{
+            max-width: 350px;
+            border: 2px solid black;
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .item{
+            flex: 1;
+            background-color: brown;
+            color: white;
+            text-align: center;
+            font-size: 24px;
+            margin: 5px;
+
+        }
+
+        .order1{
+            order: 1;
+        }
+
+        .order2{
+            order: 2;
+        }
+
+        .order3{
+            order: 3;
+        }
+
+        .direction{
+            flex-direction: column;
+        }
+    </style>
+</head>
+<body>
+    <h1>order : 0</h1>
+    <div class="flex-container">
+        <div class="item">1</div>
+        <div class="item">2</div>
+        <div class="item">3</div>
+        <div class="item">4</div>
+    </div>
+
+    <h1>orders : diferentes</h1>
+    <div class="flex-container">
+        <div class="item order3">1</div>
+        <div class="item order2">2</div>
+        <div class="item order3">3</div>
+        <div class="item order1">4</div>
+    </div>
+
+    <h1>orders : diferentes columns</h1>
+    <div class="flex-container direction">
+        <div class="item order3">1</div>
+        <div class="item order2">2</div>
+        <div class="item order1">3</div>
+        <div class="item order1">4</div>
+    </div>
+</body>
+</html>
