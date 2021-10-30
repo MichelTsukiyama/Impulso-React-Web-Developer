@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Align-self</title>
+
+    <style>
+        .flex-container{
+            max-width: 350px;
+            border: 2px solid black;
+            display: flex;
+            margin-bottom: 5px;
+            
+        }
+
+        .align-container{
+            align-items: center;
+        }
+
+        .item{
+            background-color: blue;
+            color: white;
+            font-size: 24px;
+            text-align: center;
+            margin: 10PX;
+        }
+
+        .column{
+            flex-direction: column;
+        }
+
+        .center{
+            align-self: center;
+        }
+
+        .start{
+            align-self: flex-start;
+        }
+
+        .end{
+            align-self: flex-end;
+        }
+
+        .baseline{
+            align-self: baseline;
+        }
+
+        .stratch{
+            align-self: stretch;
+        }
+
+        .auto{
+            align-self: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex-container align-container">
+        <div class="item auto">AAA</div>
+        <div class="item auto">123</div>
+        <div class="item auto">KKKKKK KKKKK KKKK KKKK</div>
+        <div class="item auto">ITEM 4</div>
+    </div>
+
+    <div class="flex-container">
+        <div class="item center">AAA</div>
+        <div class="item start">123</div>
+        <div class="item baseline">KKKKKK KKKKK KKKK KKKK</div>
+        <div class="item end">ITEM 4</div>
+    </div>
+
+    <div class="flex-container">
+        <div class="item center">AAA</div>
+        <div class="item start">123</div>
+        <div class="item end">KKKKKK KKKKK KKKK KKKK kkkkkkkkkkkkkk kkkkkkkkk kk kkkkk</div>
+        <div class="item end">ITEM 4</div>
+        <div class="item baseline">ITEM 5</div>
+        <div class="item stratch">ITEM 5</div>
+    </div>
+
+    <h1>column</h1>
+    <div class="flex-container column">
+        <div class="item center">AAA</div>
+        <div class="item start">123</div>
+        <div class="item end">KKKKKK KKKKK KKKK KKKK kkkkkkkkkkkkkk kkkkkkkkk kk kkkkk</div>
+        <div class="item end">ITEM 4</div>
+        <div class="item baseline">ITEM 5</div>
+        <div class="item stratch">ITEM 5</div>
+</body>
+</html>
