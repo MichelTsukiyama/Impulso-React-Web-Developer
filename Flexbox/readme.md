@@ -1,3 +1,8 @@
+
+![127 0 0 1_5500_Flexbox_flex-projeto_index html](https://user-images.githubusercontent.com/83741590/139523049-c4169354-4335-4bc0-a722-b1a3044c78fd.png)
+
+
+
 # Objetivos da aula
 
 1. Conhecer a estrutura Básica
