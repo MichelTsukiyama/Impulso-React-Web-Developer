@@ -21,9 +21,9 @@ operador | exemplo | Equivalente a
 
 operador | Descrição
 ---------|----------
- + | Adição 
- - | Substração 
- * | Multiplicação 
+ \+ | Adição 
+ \- | Substração 
+ \* | Multiplicação 
  ** | Exponenciação 
  / | Divisão 
  % | Módulo 
@@ -39,9 +39,9 @@ operador | Descrição
  === | Mesmo valor e mesmo tipo 
  != | Diferente 
  !== | Valor e tipos diferentes 
- > | Maior que 
+ \> | Maior que 
  < | Menor que 
- >= | Maior ou igual a
+ \>= | Maior ou igual a
  <= | Menor ou igual a
 
 ## Lógica
@@ -49,14 +49,16 @@ operador | Descrição
 operador | Descrição
 ---------|----------
  && | "e" lógico
- || | "ou" lógico 
+ \|\| | "ou" lógico 
  ! | "não" lógico
 
 ## Condicional ternário
 
-(condição) ? expression1 : expression 2
+(condição) ? expression1 : expression2
 
 (true) = expression1
+
+
 (false) = expression2
 
 condição comum:
