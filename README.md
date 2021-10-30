@@ -17,7 +17,7 @@
 4. Git e GitHub]().
 5. Como Organizar seus estudos]().
 6. Introdução a criação de websites com HTML5 e CSS3]().
-7. Posicionando elementos com Flexbox em CSS]().
+7. [Posicionando elementos com Flexbox em CSS](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Flexbox).
 8. Conceitos de resposividade e experiência do usuário]().
 9. [Recriando a Interface do Netflix](https://github.com/MichelTsukiyama/netflix-clone.git).
 10. Trabalhando com responsividade na prática]().
