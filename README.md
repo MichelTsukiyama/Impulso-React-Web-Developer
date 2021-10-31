@@ -21,9 +21,9 @@
 8. Conceitos de resposividade e experiência do usuário]().
 9. [Recriando a Interface do Netflix](https://github.com/MichelTsukiyama/netflix-clone.git).
 10. Trabalhando com responsividade na prática]().
-11. Sintaxe e Operadores]().
-12. Variáveis e Tipos]().
-13. Funções]().
+11. [Sintaxe e Operadores](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/sintaxe-e-operadores).
+12. [Variáveis e Tipos](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Variaveis-e-tipos).
+13. [Funções](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/funcoes).
 14. Coleções]().
 15. Manipulando a D.O.M. com JavaScript]().
 16. Recriando o famoso jogo do dinossauro sem internet]().
