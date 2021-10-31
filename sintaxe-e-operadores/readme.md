@@ -54,14 +54,14 @@ operador | Descrição
 
 ## Condicional ternário
 
-(condição) ? expression1 : expression2
+*(condição) ? expression1 : expression2*
 
-(true) = expression1
+- (true) = expression1
 
 
-(false) = expression2
+- (false) = expression2
 
-condição comum:
+*condição comum:*
 
 if (condição){
     expressão 1
