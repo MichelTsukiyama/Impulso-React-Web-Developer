@@ -1,0 +1,49 @@
+body{
+    background: rgb(204, 204, 204);
+}
+
+.dino {
+    width: 60px;
+    height: 60px;
+    background-image: url(dino.png);
+    /* posição absoluta o elemento vai ficar no local independente do que tenha em volta */
+    position: absolute;
+    top: 300px;
+    margin-left: 20px; 
+}
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 300px;
+    background-image: url(cactus.png);
+
+}
+
+.game-over {
+    text-align: center;
+    margin-top: 200px;
+    font-family: arial;
+}
+
+@keyframes slideright {
+    from{
+        background-position: 24000%;
+    }
+
+    to{
+        background-position: 0;
+    }
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+    animation: slideright 600s infinite linear;
+    width: 100%;
+    height: 530px;
+
+}
