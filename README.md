@@ -26,7 +26,7 @@
 13. [Funções](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/funcoes).
 14. Coleções]().
 15. Manipulando a D.O.M. com JavaScript]().
-16. Recriando o famoso jogo do dinossauro sem internet]().
+16. [Recriando o famoso jogo do dinossauro sem internet](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Recriando-jogo-dinossauro-sem-internet).
 17. Resolvendo desafios de código em JavaScript]().
 18. Desafios Iniciais JavaScript]().
 19. Trabalhando com módulos em JavaScript]().
