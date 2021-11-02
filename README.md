@@ -24,14 +24,14 @@
 11. [Sintaxe e Operadores](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/sintaxe-e-operadores).
 12. [Variáveis e Tipos](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Variaveis-e-tipos).
 13. [Funções](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/funcoes).
-14. Coleções]().
+14. [Coleções](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/colecoes).
 15. Manipulando a D.O.M. com JavaScript]().
 16. [Recriando o famoso jogo do dinossauro sem internet](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Recriando-jogo-dinossauro-sem-internet).
 17. [Resolvendo desafios de código em JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/resolvendo-desafios-de-codigo).
 18. [Desafios Iniciais JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/desafios-iniciais-javascript).
-19. Trabalhando com módulos em JavaScript]().
+19. [Trabalhando com módulos em JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/trabalhando-com-modulos-js).
 20. Debugging e Error Handling]().
-21. Orientação a objetos]().
+21. [Orientação a objetos](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/orientacao-a-objetos).
 22. JavaScript Assíncrono]().
 23. Map, Filter e Reduce]().
 24. Desafios Intermediários JavaScript]().
