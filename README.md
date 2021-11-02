@@ -30,11 +30,11 @@
 17. [Resolvendo desafios de código em JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/resolvendo-desafios-de-codigo).
 18. [Desafios Iniciais JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/desafios-iniciais-javascript).
 19. [Trabalhando com módulos em JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/trabalhando-com-modulos-js).
-20. Debugging e Error Handling]().
+20. [Debugging e Error Handling](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/debugging-e-error-handling).
 21. [Orientação a objetos](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/orientacao-a-objetos).
-22. JavaScript Assíncrono]().
-23. Map, Filter e Reduce]().
-24. Desafios Intermediários JavaScript]().
+22. [JavaScript Assíncrono](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/javascript-assincrono).
+23. [Map, Filter e Reduce](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/map-filter-reduce).
+24. [Desafios Intermediários JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/desafios-intermediarios-javascript).
 25. Trabalhando com classes com JavaScript]().
 26. Introdução ao ReactJS]().
 27. Trabalhando com Componentes em React]().
