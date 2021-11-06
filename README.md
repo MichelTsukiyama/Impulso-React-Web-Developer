@@ -39,7 +39,7 @@
 26. Introdução ao ReactJS]().
 27. Trabalhando com Componentes em React]().
 28. Desenvolvimento de aplicações com ReacJS]().
-29. Introdução ao React Hooks]().
+29. [Introdução ao React Hooks](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/introducao-react-hooks).
 30. Práticas Avançadas em projetos com ReactJS]().
 31. Como gerenciar o estado das aplicações com Redux]().
 32. Testes Unitários com React e Jest]().
@@ -53,3 +53,4 @@
 ### links úteis
 
 [Guia Markdown](https://www.markdownguide.org/basic-syntax/#images-1).
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/).
