@@ -1,0 +1,417 @@
+[33mcommit 35a0724fca580bbc03ba98d9da317ab9b7adcb70[m[33m ([m[1;36mHEAD -> [m[1;32mtestes-unitarios[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Nov 6 23:39:13 2021 -0300
+
+    adiciona testes-unitarios-react-jest
+
+[33mcommit 53143336c3b50a1ced83d06500bdf56e751a9b2c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Nov 6 17:32:15 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit 10e02087b2ca3d1230c67ca7c720a3aa3d50294b[m
+Merge: 3925de03 3b158b9f
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Sat Nov 6 17:24:06 2021 -0300
+
+    Merge pull request #12 from MichelTsukiyama/Intro-react-hooks
+    
+    adiciona introducao-react-hooks
+
+[33mcommit 3b158b9f63c5d00eb2e7484c1c23ae6d2b671e2c[m[33m ([m[1;31morigin/Intro-react-hooks[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Nov 6 17:23:08 2021 -0300
+
+    adiciona introducao-react-hooks
+
+[33mcommit 3925de03ea7e7436c386ace03f47d43d0bda62ea[m
+Merge: a4445d97 02474be1
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Nov 3 21:03:39 2021 -0300
+
+    Merge branch 'main' of https://github.com/MichelTsukiyama/Impulso-React-Web-Developer
+
+[33mcommit a4445d97125ffba99e0b188a3550ca4ac2d4b563[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Nov 3 21:03:18 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit 02474be1eac8df91e0b904c2e9388fdbaae970e5[m
+Merge: fc558c38 5eb09436
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Wed Nov 3 21:02:12 2021 -0300
+
+    Merge pull request #11 from MichelTsukiyama/desafios-medios-js
+    
+    adiciona desafios-medios-js
+
+[33mcommit 5eb0943670ae32b50b1660ecd8949390271b17ff[m[33m ([m[1;31morigin/desafios-medios-js[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Nov 3 20:58:44 2021 -0300
+
+    adiciona desafios-medios-js
+
+[33mcommit fc558c38611e3fd2488b2c43c5f2dde509f73cf0[m
+Merge: a24ff8a6 d83748e0
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 13:52:07 2021 -0300
+
+    Merge branch 'main' of https://github.com/MichelTsukiyama/Impulso-React-Web-Developer
+
+[33mcommit a24ff8a684eddf8fd5fb273dbe5e6ea89e9396a1[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 13:51:21 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit d83748e09caa6993497fad651d137c5ad9af6428[m
+Merge: e3b03ff9 e9ae7ccb
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Tue Nov 2 13:50:01 2021 -0300
+
+    Merge pull request #10 from MichelTsukiyama/desafios-intermediarios
+    
+    adiciona desafios-intermediarios-javascript
+
+[33mcommit e3b03ff9fc49d4d3b351af90304aa37d978a38ca[m
+Merge: 780e3d71 61b20ac9
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Tue Nov 2 13:49:15 2021 -0300
+
+    Merge pull request #9 from MichelTsukiyama/map-filter-reduce
+    
+    adiciona map-filter-reduce
+
+[33mcommit 780e3d71bba4616ed64384b3d4ea52c00df4f4bd[m
+Merge: f3419e72 945b4f71
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Tue Nov 2 13:48:24 2021 -0300
+
+    Merge pull request #8 from MichelTsukiyama/assincrono
+    
+    adiciona javascript-assincrono
+
+[33mcommit f3419e72fbcb477223c4835c45452be0378638ec[m
+Merge: b22eabc6 d9d2366d
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Tue Nov 2 13:47:07 2021 -0300
+
+    Merge pull request #7 from MichelTsukiyama/debugging-error-handlling
+    
+    adiciona debugging-e-error-handling
+
+[33mcommit e9ae7ccbb7a28b22d32afd2dcfc8d41e5b45846d[m[33m ([m[1;31morigin/desafios-intermediarios[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 05:50:45 2021 -0300
+
+    adiciona desafios-intermediarios-javascript
+
+[33mcommit 61b20ac9493ff7f01ac5d01b06dc5107ba039b65[m[33m ([m[1;31morigin/map-filter-reduce[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 03:42:14 2021 -0300
+
+    adiciona map-filter-reduce
+
+[33mcommit 945b4f71ee890be3b8e211aa6d1a5ee1ffa23917[m[33m ([m[1;31morigin/assincrono[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 01:48:32 2021 -0300
+
+    adiciona javascript-assincrono
+
+[33mcommit d9d2366de6a9aabfee7e6b5c2f42d325f572b74a[m[33m ([m[1;31morigin/debugging-error-handlling[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Nov 2 00:28:26 2021 -0300
+
+    adiciona debugging-e-error-handling
+
+[33mcommit b22eabc64827ba52899db8d18d4911fdf16bba52[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 22:02:59 2021 -0300
+
+    Atualiza readme.md
+
+[33mcommit 72224653294e4f504e5265158312ae08b77d7201[m
+Merge: ebc99120 789e0d0c
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Nov 1 22:00:36 2021 -0300
+
+    Merge pull request #6 from MichelTsukiyama/colecoes
+    
+    adiciona colecoes, readme e atividades
+
+[33mcommit ebc99120fc514560783cdcfebdc8f7f494a6ea41[m
+Merge: e5d36b23 bd221b79
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Nov 1 21:58:48 2021 -0300
+
+    Merge pull request #5 from MichelTsukiyama/orientacao-objetos
+    
+    Orientacao objetos
+
+[33mcommit bd221b79c9b0f90712a0aa0bec4026d157a3049e[m[33m ([m[1;31morigin/orientacao-objetos[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 21:57:29 2021 -0300
+
+    adiciona orientacao-a-objetos
+
+[33mcommit 6e25d0fd59abee69a270d300813922519dda415a[m[33m ([m[1;31morigin/modulos-js[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 20:22:27 2021 -0300
+
+    adiciona trabalhando-com-modulos-js
+
+[33mcommit e5d36b2368fa2c3b6db2c987ab409b0e37dbad55[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 13:32:13 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit 26ea3e41d6f9b7715fa36b1cbd5a4af4432a5347[m
+Merge: bb4dfc80 02f77f2d
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Nov 1 13:30:13 2021 -0300
+
+    Merge pull request #4 from MichelTsukiyama/desafios-iniciais--javascript
+    
+    Desafios iniciais  javascript
+
+[33mcommit 02f77f2d2b8a2247f64c43ba4f05eefaecff3840[m[33m ([m[1;31morigin/desafios-iniciais--javascript[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 13:28:35 2021 -0300
+
+    Adiciona desafios-iniciais-javascript
+
+[33mcommit 77c9b0dbd05e56ca6e3579c9b5b778329c406c71[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 13:14:35 2021 -0300
+
+    adiciona resolvendo-desafios-de-codigo
+
+[33mcommit d790339e4a9e377eb32a0e8f6427f5abc57bbab9[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 04:18:20 2021 -0300
+
+    Atualiza readme
+
+[33mcommit bb4dfc80b368c3769226c1ee05956adf2bbb9c60[m
+Merge: ddbf3db9 bedcda30
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Nov 1 04:12:46 2021 -0300
+
+    Merge pull request #3 from MichelTsukiyama/projeto-dinossauro
+    
+    adiciona Recriando-jogo-dinossauro-sem-internet
+
+[33mcommit bedcda302a421079577ca0b00942620380e3dd8f[m[33m ([m[1;31morigin/projeto-dinossauro[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Mon Nov 1 04:11:56 2021 -0300
+
+    adiciona Recriando-jogo-dinossauro-sem-internet
+
+[33mcommit 789e0d0cca29263d849554761b6df65b521534ec[m[33m ([m[1;31morigin/colecoes[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sun Oct 31 20:46:53 2021 -0300
+
+    adiciona colecoes, readme e atividades
+
+[33mcommit ddbf3db92a4ad81e55b2ada21167b35a94d2ff37[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sun Oct 31 18:29:10 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit a3496c7119749b52a1078f06d7995221628c280d[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sun Oct 31 18:27:51 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit 7e28217225db91f7f3f35810e76b3d450ec7faa7[m
+Merge: 01617705 5767760f
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Sun Oct 31 18:19:18 2021 -0300
+
+    Merge pull request #2 from MichelTsukiyama/funcoes
+    
+    Funcoes
+
+[33mcommit 5767760ff6a5b88c587a05dc8c308486b948259a[m[33m ([m[1;31morigin/funcoes[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sun Oct 31 18:16:54 2021 -0300
+
+    Adiciona funcoes
+
+[33mcommit 75775144eb37e7d8474188f4d71ee931e109461e[m[33m ([m[1;31morigin/variaveis-e-tipos[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sun Oct 31 01:52:28 2021 -0300
+
+    adiciona variaveis-e-tipos
+
+[33mcommit cc858510e08b37a445a9ca730a699aeacf2e31fb[m[33m ([m[1;31morigin/sintaxe-e-operadores[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 21:51:14 2021 -0300
+
+    sem alterações
+
+[33mcommit 7031ddaf86d567a87ef986146ff500d77bbfdfa6[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 21:39:59 2021 -0300
+
+    adiciona atividade.js e modifica readme.md
+
+[33mcommit f3e1309f28788aaef8003ce30f9585ebb17907c8[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 20:24:14 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit ff4920f36e9ee922ac9339ed6c98b91d0b3d8124[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 20:20:59 2021 -0300
+
+    atualiza readme.md
+
+[33mcommit 28c489b52ebdbe3178ec934199384fd0dfb98070[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 20:10:17 2021 -0300
+
+    adiciona sixtaxe-e-operadores readme.md
+
+[33mcommit 092b6f03abfc345fcc274922fe0d12e48b257564[m[33m ([m[1;31morigin/conceitos-de-responsividade[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 19:43:16 2021 -0300
+
+    Adiciona conteúdo Conceito-de-responsividade-e-experiencia-doo-usuario
+
+[33mcommit 0161770501cf250dd221a31844578e1291ccf9b7[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 03:34:32 2021 -0300
+
+    aadiciona link do item 7 no README.MD
+
+[33mcommit 460826016b5a47ee25256aea07a1b90fc3763439[m
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Sat Oct 30 03:32:35 2021 -0300
+
+    Update readme.md
+
+[33mcommit a6344ebf193a16266de391d914d67abcd0c0bf53[m
+Merge: be05da2b 0cd23b19
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Sat Oct 30 03:17:28 2021 -0300
+
+    Merge pull request #1 from MichelTsukiyama/flexbox
+    
+    Flexbox
+
+[33mcommit 0cd23b191827e9541690b28ad1b49187ea4795a5[m[33m ([m[1;31morigin/flexbox[m[33m)[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Sat Oct 30 03:11:50 2021 -0300
+
+    Adiciona Slides - CSS Flex Box.pdf e /flex-projeto/
+
+[33mcommit 9c4890ebe106db76281f6dc65aeac6e822e8480c[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 22:23:59 2021 -0300
+
+    adiciona aula 12-align-self.html
+
+[33mcommit 4b7d982ceaf8a15d129b4ff99b5936e5a1d163f6[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 22:03:02 2021 -0300
+
+    adiciona arquivoo aula11-order.html
+
+[33mcommit a8ded2b9b2725ef28683615bdf342d0b48a71bfe[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 19:01:49 2021 -0300
+
+    adiciona aula10-flex.html
+
+[33mcommit 0dedd7579943f403fa84f77195f2f8b91dc54c9a[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 18:42:15 2021 -0300
+
+    adiciona arquivo aula09-flex-shrink.html
+
+[33mcommit 83e14925c07e53f51c654099e03e60ae8cfa039c[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 13:53:44 2021 -0300
+
+    adiciona aula08-flex-basis
+
+[33mcommit 27a30d3b3303f6c55da27bee544062e1dcc8e2e9[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 13:34:02 2021 -0300
+
+    Atualiza nome de arquivos, adiciona o arquivo aula07-flex-groow.html
+
+[33mcommit be05da2b7fcfbb7feca6cfe50efe2d5cf1fb351f[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Fri Oct 29 12:14:00 2021 -0300
+
+    Altera Readme.md
+
+[33mcommit 5ddc2004348cefb3f63cd81f3df87e1a7560110b[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Oct 27 23:26:02 2021 -0300
+
+    adiciona align-content.html
+
+[33mcommit e2998e7221db4c7ead453aae14067a31d571b682[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Oct 27 23:03:02 2021 -0300
+
+    adiciona align-items.html
+
+[33mcommit ea4fb42b4715e4ce7fe5b4e8e15351f14d38f492[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Oct 27 22:36:53 2021 -0300
+
+    adiciona justify-content.html
+
+[33mcommit b20be44795623ed5b0c827af97797dcfe3057a34[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Oct 27 21:55:11 2021 -0300
+
+    adiciona arquivo flex-flow
+
+[33mcommit c7bdc02f5c535f665318b9dc4345e08910e726db[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Wed Oct 27 00:14:40 2021 -0300
+
+    Adicion flex-wrap
+
+[33mcommit c3c37f1dbece6e47baac67396fa44a30a6e41559[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Oct 26 23:43:08 2021 -0300
+
+    Adiciona flex-direction.html
+
+[33mcommit 5c50bf64dd87ca8b0f5ab0d013d6d8e74390c93e[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Oct 26 23:26:04 2021 -0300
+
+    Adiciona display-flex.html / atualiza readme.md
+
+[33mcommit 4bf221d14835a0ea5e82106f5517899ee6b3dfb8[m
+Author: Michel <michel.tsukiyama@gmail.com>
+Date:   Tue Oct 26 23:00:18 2021 -0300
+
+    Adiciona pasta Flexbox e readme
+
+[33mcommit 4a8a8c512d677e5417f30ca314a68ef9cdaa6c75[m
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Oct 25 23:24:07 2021 -0300
+
+    Cria repositório
+    
+    Cria repositório do Bootcamp Impulso React Web Developer
+
+[33mcommit 582da1c6300b6610160f6f6111bb268dc5c85785[m
+Author: MichelTsukiyama <83741590+MichelTsukiyama@users.noreply.github.com>
+Date:   Mon Oct 25 22:29:12 2021 -0300
+
+    Initial commit
