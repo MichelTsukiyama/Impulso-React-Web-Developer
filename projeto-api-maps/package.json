@@ -1,0 +1,53 @@
+{
+  "name": "restaurants-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material/react-material-icon": "^0.15.0",
+    "@material/react-text-field": "^0.15.0",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "dotenv": "^10.0.0",
+    "google-maps-react": "^2.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-lottie": "^1.2.3",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.6",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "redux": "^4.1.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.3",
+    "styled-reset": "^4.3.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.7.0"
+  }
+}
