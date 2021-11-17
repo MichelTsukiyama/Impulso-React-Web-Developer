@@ -11,7 +11,7 @@
 
 ## Índice (em andamento...)
 
-1. IDE Instalação e Configuração]().
+1. [IDE Instalação e Configuração](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/IDE-instalacao-e-configuracao).
 2. Lógica de Programação Essencial]().
 3. Estrutura de Dados e Algoritmos]().
 4. Git e GitHub]().
