@@ -44,7 +44,7 @@
 31. Como gerenciar o estado das aplicações com Redux]().
 32. [Testes Unitários com React e Jest](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/testes-unitarios-react-jest).
 33. [Desafios Médios JavaScript](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/desafios-medios-js).
-34. Criando um site para encontrar restaurantes usando o Google Maps que consulta API do Google]().
+34. [Criando um site para encontrar restaurantes usando o Google Maps que consulta API do Google](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/projeto-api-maps).
 35. Trabalhando com context API no React]().
 36. Graduação]().
 
