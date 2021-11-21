@@ -16,7 +16,7 @@
 3. Estrutura de Dados e Algoritmos]().
 4. Git e GitHub]().
 5. Como Organizar seus estudos]().
-6. Introdução a criação de websites com HTML5 e CSS3]().
+6. [Introdução a criação de websites com HTML5 e CSS3](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Introducao-HTML5-CSS3).
 7. [Posicionando elementos com Flexbox em CSS](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Flexbox).
 8. [Conceitos de resposividade e experiência do usuário](https://github.com/MichelTsukiyama/Impulso-React-Web-Developer/tree/main/Conceito-de-responsividade-e-experiencia-do-usuario).
 9. [Recriando a Interface do Netflix](https://github.com/MichelTsukiyama/netflix-clone.git).
